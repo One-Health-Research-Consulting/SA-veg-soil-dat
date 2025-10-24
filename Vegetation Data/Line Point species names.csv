@@ -1,0 +1,126 @@
+Species,Grass = G; Sedge = S; Juncus = J; Forb = F; Typha = T
+Bare soil,
+Marsilea capensis,F
+Phyla nodiflora,F
+Andropogon appendiculatus,G
+Hermannia modesta,F
+Paspalum distichum,G
+Geigeria burkei,F
+Vigna vexillata v. vexillata,F
+Stachys rugosa,F
+Alternanthera pungens,F
+Digitaria argyrograpta,G
+Euphorbia inaequilatera,F
+Chenopodium vulvaria,F
+Litter,
+Cynodon dactylon,G
+Tragus berteronianus ,G
+Setaria pumila,G
+Tragus berteronianus,G
+Monopsis decipiens,G
+Eragrostis gummiflua,G
+Ribes uva-crispa,F
+Aponogeton junceus,F
+Cyperus rupestris,S
+Leptochloa fusca,G
+Alternanthera nodiflora,F
+Chrysocoma ciliata,F
+Carex glomerabilis,S
+Isolepis fluitans,S
+Anchusa capensis,F
+Arctotis arctotoides,F
+Pentzia globosa,F
+Paspalum dilatatum,G
+Trifolium repens,G
+Eragrostis capensis,G
+Chrysocoma ciliata ,F
+Lepidium africanum,F
+Salvia disermas,F
+Standing water,
+Sedge 1,
+Ocimum americanum,F
+Enneapogon cenchroides,G
+Abildgaardia ovata,S
+Sporobolus ioclados,G
+Sutera halimifolia,F
+Echinochloa holubi,G
+Chenopodium album,F
+Brachiaria marlothii,G
+Eragrostis chloromelas,G
+Schkuhria pinnata,F
+Cynodon nlemfuensis,G
+Pseudognaphalium leutoalbum,F
+Eragrostis plana,G
+Setaria sphacelata var. sphacelata,G
+Kyllinga erecta var. erecta,S
+Paspalum notatum,G
+Eragrostis biflora,G
+Senecio latifolius,F
+Eragrostis lehmanniana,G
+Oenothera rosea,F
+Schoenoplectus muricinux,S
+Aristida adscensionis,G
+Bolboschoenus glaucus,S
+Schoenoplectus paludicola,S
+Miscanthus capensis,G
+Fingerhuthia africana,G
+Panicum repens,G
+Asparagus laricinus,F
+Senecio madagascariensis,F
+Schoenoplectus decipiens,S
+Forb 1,
+Hibiscus trionum,F
+Sporobolus fimbriatus,G
+Verbena bonariensis,F
+Berkheya rigida,F
+Panicum coloratum,G
+Panicum schinzii,G
+Eragrostis bicolor,G
+Osteospermum spinescens,F
+Cyperus eragrostis,S
+Tricholaena monachne,G
+Eragrostis inamoena,G
+Scirpoides dioecus,S
+Cyperus marginatus,S
+Eragrostis obtusa,G
+Eragrostis curvula,G
+Argemone mexicana,F
+Schoeplectus decipiens,S
+Helictotrichon turgidulum,G
+Berula erecta,F
+Flaveria bidentis,F
+Scabiosa columbaria,F
+Cyperus congestus ,S
+Juncus rigidus,J
+Themeda triandra,G
+Kniphofia ensifolia,F
+Cyperus longus var. longus,S
+Eragrostis trichophora,G
+Cyperus longus var. tenuiflorus,G
+Digitaria eriantha,G
+Setaria verticillata,G
+Cyperus congestus,S
+Setaria sphacelata,G
+Chenopodium ambrosoides,F
+Conyza bonariensis,F
+Convolvulus sagitattus var. ulosepalus,F
+Cymbopogon pospischilii,G
+Echinochloa holubii,G
+Agrostis lachnantha,G
+Tagetes minuta,F
+Cirsium vulgare,F
+Bulboschoenus glaucus ,S
+Chloris virgata,G
+Cyperus denudatus var. denudatus,S
+Digitaria eriantha ,G
+Persicaria lapathifolia,F
+Sporobolus festivus,G
+Artemisia afra,F
+Brachiaria serrata,G
+Setaria incrassata,G
+Brachiaria brizantha,G
+Phragmites australis,G
+Eleocharis dregeana,S
+Melica decumbens,F
+Typha capensis,T
+Conyza canadensis,F
